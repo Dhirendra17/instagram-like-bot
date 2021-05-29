@@ -1,2 +1,2 @@
 # instagram-like-bot
-A Bot that can like  all the Post of Person.
+A Bot that can hit a like button for all the Post of an Account.
